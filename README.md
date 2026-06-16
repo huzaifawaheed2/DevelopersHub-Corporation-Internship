@@ -4,15 +4,24 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Graphics-purple)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-red)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-red)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-yellow)
 
 ---
 
 ## Overview
 
-This repository contains projects completed during my Data Analytics internship journey. The projects focus on data analysis, exploratory data analysis (EDA), data visualization, and practical problem-solving using Python and industry-standard tools.
+This repository contains projects completed during my **Data Science & Analytics Internship** at DevelopersHub Corporation.
 
-Each project is organized in a separate folder and includes its own documentation, source files, outputs, and project-specific README.
+The projects focus on data analysis, exploratory data analysis (EDA), data visualization, machine learning, and practical problem-solving using Python and industry-standard tools.
+
+Each project is organized in a separate folder and includes:
+
+* Project documentation
+* Source code and notebooks
+* Visual outputs
+* Project-specific README files
+* Requirements file
 
 ---
 
@@ -23,6 +32,7 @@ Each project is organized in a separate folder and includes its own documentatio
 * NumPy
 * Matplotlib
 * Seaborn
+* Scikit-Learn
 * Jupyter Notebook
 * Git & GitHub
 
@@ -35,24 +45,33 @@ DevelopersHub-Corporation-Internship/
 │
 ├── Project-01-Iris-Analysis/
 │   ├── README.md
-│   ├── data/
+│   ├── datasets/
 │   ├── notebooks/
 │   └── outputs/
 │
+├── Project-02-Credit-Risk-Prediction/
+│   ├── README.md
+│   ├── dataset/
+│   ├── notebooks/
+│   └── outputs/
+│
+├── .gitignore
 └── README.md
+
 ```
 
 ---
 
 ## Projects
 
-| Project                  | Description                                                                  |
-| ------------------------ | ---------------------------------------------------------------------------- |
-| Project-01-Iris-Analysis | Exploratory Data Analysis and Visualization of the Iris Dataset using Python |
+| Project                           | Description                                                                  |
+| --------------------------------- | ---------------------------------------------------------------------------- |
+| Project-01-Iris-Analysis          | Exploratory Data Analysis and Visualization of the Iris Dataset using Python |
+| Project-02-Credit-Risk-Prediction | Loan Approval Prediction using Machine Learning and Logistic Regression      |
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### Project 01: Exploring and Visualizing the Iris Dataset
 
@@ -79,6 +98,49 @@ DevelopersHub-Corporation-Internship/
 
 ---
 
+### Project 02: Credit Risk Prediction Using Machine Learning
+
+#### Key Highlights
+
+* Missing value handling
+* Data preprocessing and encoding
+* Exploratory data analysis (EDA)
+* Correlation analysis
+* Outlier analysis
+* Logistic Regression model development
+* Accuracy evaluation
+* Confusion Matrix analysis
+* Classification Report generation
+
+#### Skills Applied
+
+* Data Cleaning
+* Feature Engineering
+* Exploratory Data Analysis (EDA)
+* Machine Learning
+* Binary Classification
+* Model Evaluation
+* Data Visualization
+
+---
+
+## Internship Skills Demonstrated
+
+Throughout these projects, the following skills were applied:
+
+* Data Collection and Preparation
+* Data Cleaning and Transformation
+* Exploratory Data Analysis
+* Data Visualization
+* Statistical Analysis
+* Machine Learning Fundamentals
+* Classification Modeling
+* Model Evaluation
+* Technical Documentation
+* GitHub Project Management
+
+---
+
 ## Getting Started
 
 ### Clone the Repository
@@ -87,10 +149,18 @@ DevelopersHub-Corporation-Internship/
 git clone https://github.com/huzaifawaheed2/DevelopersHub-Corporation-Internship.git
 ```
 
-### Navigate to the Project Folder
+### Navigate to a Project Folder
+
+#### Project 01
 
 ```bash
 cd DevelopersHub-Corporation-Internship/Project-01-Iris-Analysis
+```
+
+#### Project 02
+
+```bash
+cd DevelopersHub-Corporation-Internship/Project-02-Credit-Risk-Prediction
 ```
 
 ---
@@ -103,8 +173,8 @@ Data Analyst | Power BI Developer | QA Engineer
 
 #### Connect With Me
 
-* GitHub: https://github.com/huzaifawaheed2
-* LinkedIn: https://www.linkedin.com/in/muhammad-huzaifa-waheed-70043338b
+* GitHub: [huzaifawaheed2](https://github.com/huzaifawaheed2)
+* LinkedIn: [Muhammad Huzaifa Waheed](https://www.linkedin.com/in/muhammad-huzaifa-waheed-70043338b)
 
 ---
 
