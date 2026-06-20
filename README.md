@@ -55,19 +55,26 @@ DevelopersHub-Corporation-Internship/
 │   ├── notebooks/
 │   └── outputs/
 │
+├── Project-03-Customer-Churn-Prediction/
+│   ├── README.md
+│   ├── dataset/
+│   ├── notebooks/
+│   └── outputs/
+│
 ├── .gitignore
+├── requirements.txt
 └── README.md
-
 ```
 
 ---
 
 ## Projects
 
-| Project                           | Description                                                                  |
-| --------------------------------- | ---------------------------------------------------------------------------- |
-| Project-01-Iris-Analysis          | Exploratory Data Analysis and Visualization of the Iris Dataset using Python |
-| Project-02-Credit-Risk-Prediction | Loan Approval Prediction using Machine Learning and Logistic Regression      |
+| Project                              | Description                                                                  |
+| ------------------------------------ | ---------------------------------------------------------------------------- |
+| Project-01-Iris-Analysis             | Exploratory Data Analysis and Visualization of the Iris Dataset using Python |
+| Project-02-Credit-Risk-Prediction    | Loan Approval Prediction using Machine Learning and Logistic Regression      |
+| Project-03-Customer-Churn-Prediction | Customer Churn Prediction using Machine Learning and Random Forest           |
 
 ---
 
@@ -124,6 +131,33 @@ DevelopersHub-Corporation-Internship/
 
 ---
 
+### Project 03: Customer Churn Prediction Using Machine Learning
+
+#### Key Highlights
+
+* Customer churn analysis
+* Data preprocessing and feature engineering
+* Exploratory data analysis (EDA)
+* Correlation analysis and heatmap visualization
+* Logistic Regression model development
+* Random Forest model development
+* Model comparison and evaluation
+* Feature importance analysis
+* Customer retention insights generation
+
+#### Skills Applied
+
+* Data Cleaning
+* Feature Engineering
+* Exploratory Data Analysis (EDA)
+* Machine Learning
+* Classification Modeling
+* Model Evaluation
+* Feature Importance Analysis
+* Data Visualization
+
+---
+
 ## Internship Skills Demonstrated
 
 Throughout these projects, the following skills were applied:
@@ -135,6 +169,7 @@ Throughout these projects, the following skills were applied:
 * Statistical Analysis
 * Machine Learning Fundamentals
 * Classification Modeling
+* Feature Engineering
 * Model Evaluation
 * Technical Documentation
 * GitHub Project Management
@@ -161,6 +196,12 @@ cd DevelopersHub-Corporation-Internship/Project-01-Iris-Analysis
 
 ```bash
 cd DevelopersHub-Corporation-Internship/Project-02-Credit-Risk-Prediction
+```
+
+#### Project 03
+
+```bash
+cd DevelopersHub-Corporation-Internship/Project-03-Customer-Churn-Prediction
 ```
 
 ---
