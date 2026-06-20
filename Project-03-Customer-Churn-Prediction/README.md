@@ -1,4 +1,4 @@
-# Project 03: Customer Churn Prediction Using Machine Learning
+# Customer Churn Prediction Using Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
@@ -308,8 +308,8 @@ Data Analyst | Power BI Developer | QA Engineer
 
 ### Connect With Me
 
-* GitHub: https://github.com/huzaifawaheed2
-* LinkedIn: https://www.linkedin.com/in/muhammad-huzaifa-waheed-70043338b
+* GitHub: [huzaifawaheed2](https://github.com/huzaifawaheed2)
+* LinkedIn: [Muhammad Huzaifa Waheed](https://www.linkedin.com/in/muhammad-huzaifa-waheed-70043338b)
 
 ---
 
